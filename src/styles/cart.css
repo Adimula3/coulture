@@ -1,0 +1,28 @@
+
+.cart {
+    width: 500px;
+    height: 100vh;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    color: #101010;
+  
+}
+.cart-title {
+    padding: 10px 0 0 30px;
+}
+.cart-title p {
+ font-size: 18px;
+ margin-right: 300px;
+}
+hr {
+    margin: 0;
+    padding: 0;
+}
+.cart-message {
+    
+}

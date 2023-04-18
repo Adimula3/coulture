@@ -1,0 +1,25 @@
+.navbar {
+    background: none!important;
+    color: #F5F5F5!important;
+    padding: 10px 0 0 80px;
+}
+.navbar-nav {
+    text-align: right;
+    padding-left: 600px;
+}
+.navbar-brand {
+    color: #F5F5F5;
+    padding-left: 50px;
+}
+.nav-link {
+    color: #F5F5F5;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 70px;
+}
+.fa-solid {
+    margin-left: 20px;
+    font-size: 22px;
+}
